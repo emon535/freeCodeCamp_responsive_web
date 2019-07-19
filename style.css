@@ -19,25 +19,36 @@ body {
 h3 {
   text-align: center;
 }
-img {
-  width: 100%;
-}
+
 #img-caption {
   text-align: center;
   padding: 10px;
 }
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+}
+
 #img-div {
-  background-color: white;
-  width: 90%;
-  padding: 2px;
-  margin: 10px;
-  border: solid 10px white;
+  background: white;
+  padding: 10px;
+  margin: 0;
 }
 ul {
-    line-height: 1.5;
-    list-style-type: disc;
+  max-width: 500px;
+  margin: 0 auto 50px auto;
+  line-height: 1.5;
+  list-style-type: disc;
 }
 li {
   padding-top: 10px;
   font-size: 1em;
+}
+
+blockquote {
+  margin: 0 auto 50px auto;
+  max-width: 550px;
 }
