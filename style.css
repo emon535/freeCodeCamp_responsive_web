@@ -38,7 +38,7 @@ img {
   margin: 0;
 }
 ul {
-  max-width: 500px;
+  max-width: 600px;
   margin: 0 auto 50px auto;
   line-height: 1.5;
   list-style-type: disc;
@@ -50,5 +50,5 @@ li {
 
 blockquote {
   margin: 0 auto 50px auto;
-  max-width: 550px;
+  max-width: 750px;
 }
