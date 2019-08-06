@@ -15,3 +15,12 @@
   - Form
   - 2 Column Form System
   - Radio and Checkboxes
+
+
+# Project 3: Product Page
+
+
+- Features:
+  - Navigation
+  - Grid
+  - Media Query
